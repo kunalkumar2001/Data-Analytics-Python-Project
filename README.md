@@ -88,11 +88,6 @@ The projects in this repository leverage the following technologies and librarie
 
 ---
 
-## Requirements
-
-- Microsoft Excel 2016 or higher
-
----
 
 ## **Setup Instructions**
 
